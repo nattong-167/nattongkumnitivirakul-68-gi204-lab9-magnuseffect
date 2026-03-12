@@ -227,7 +227,7 @@ Transform:
   m_GameObject: {fileID: 67562686}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 12.08, y: 0.49, z: -5.94}
+  m_LocalPosition: {x: 12.08, y: 0.49, z: -5.61}
   m_LocalScale: {x: 0.6818, y: 0.6818, z: 0.6818}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -272,8 +272,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 784a458227846d143a8bbe8c596f9942, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MagnusEffectKick
-  kickForce: 6
-  spinAmount: 5
+  kickForce: 5
+  spinAmount: 0.5
   magnusStrength: 0.5
 --- !u!1 &330585543
 GameObject:
